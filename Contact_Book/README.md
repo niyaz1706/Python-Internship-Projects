@@ -11,6 +11,9 @@ It allows users to:
 4. Delete Contact
 5. Exit Program
 1. Open terminal
-2. Run:
-```bash
+2. Run the following command:
 python main.py
+3. Follow the menu options
+- Add Contact
+- Search Contact
+- Delete Contact
